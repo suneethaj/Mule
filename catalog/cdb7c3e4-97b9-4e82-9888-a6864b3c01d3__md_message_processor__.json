@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "salesforce_map"
+        }
+    },
+    "id": "cdb7c3e4-97b9-4e82-9888-a6864b3c01d3",
+    "version": "5.2.0.0"
+}
